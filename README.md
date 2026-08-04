@@ -14,7 +14,7 @@ See the latest [OpenAPI definition](https://github.com/opengeospatial/ogcapi-til
 
 _OGC API - Tiles_ is a standard API that provides tiles of geospatial information.
 
-Different forms of geospatial information are supported, such as tiles of vector features ("vector tiles"), coverages, maps (or imagery) and potentially eventually additional types of tiles) of geospatial information.
+Different forms of geospatial information are supported, such as tiles of vector features ("vector tiles"), coverages, maps (or imagery) and potentially eventually additional types of tiles of geospatial information.
 
 Vector data represents geospatial objects as points, lines, and polygons. Tiles of vector data (i.e. Vector Tiles) represent subsets of vector data covering a large area (e.g. lines representing rivers in a country).
 
